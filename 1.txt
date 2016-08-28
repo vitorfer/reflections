@@ -1,0 +1,69 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+ Me ensinou economia de tempo
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+
+
+2- posso usar drpbox, googledoc etc;
+
+3- Uma boa regra prática é fazer um commit por alteração lógica. Se você corrigiu um erro de digitação, depois corrigiu um bug em uma parte separada do arquivo, deve usar um commit para cada alteração, pois eles estão logicamente separados.
+
+4- Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+ O bom do salvamento manual é a flexibilidadde, mas nem sempre saberemos quando salvar.
+ O bom do automático é que não teremos que perder tempo salvando, mas eles podem salvar muitas coisas desnecessárias e não salvar algumas que são extremamente necessárias.
+
+5- Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+ Pois ele foi desenvolvido para isso, eu imagino
+
+6- Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+ Primeiro digite git clone seguido do url do site onde pegou;
+ Abrir o arquivo com cd...;
+ Usar o git log para ver as frases;
+ Usar o git lgiff primeiro log segundo log;
+ Comparar.
+
+7- De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+ Permitindo que eu possa voltar atrás;
+
+8- Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+ Para ajudar em projetos;
+
+9- O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+ Ele dá erro, não sei;
+
+10- 
